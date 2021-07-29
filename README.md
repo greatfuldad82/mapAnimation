@@ -11,9 +11,13 @@ this project utilizes several elements of working with DOM - we are also getting
 
 i hope to use this same approach in future repos, specifically to animate web pages but also to build applications utilizing the full manipulation offered by these very powerful javascript expressions and loops. this project is exciting for me personally, as i am very interested in public transportation and helping modernize that and make it more efficent in our american cities.
 
-1. save files .css .html locally on your machine in the same directory.  open google chrome and simply drag and drop the index.html file into your    google console.  
+
+<!-- how to run -->
+
+save files .css .html abd .js locally on your machine in the same directory.  open google chrome and simply drag and drop the index.html file into your    google console.  
    if google chrome is your default browser, you may simply double click the index.html file. 
    the animation will then appear and you will see the eyes following your mouse movements. 
+
 
 ** licensing**
 
