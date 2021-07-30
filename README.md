@@ -13,7 +13,7 @@ i hope to use this same approach in future repos, specifically to animate web pa
 
 
 
-<!-- how to run -->
+** how to run the program **
 
 save files .css .html abd .js locally on your machine in the same directory.  open google chrome and simply drag and drop the index.html file into your    google console.  
    if google chrome is your default browser, you may simply double click the index.html file. 
